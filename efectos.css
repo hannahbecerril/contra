@@ -1,0 +1,41 @@
+.boton_azul{
+	background:lightpink;
+	color:white;
+	width:150px;
+	font-size:16pt;
+	font-family:Courier;
+	border-color:white;
+}
+.boton_azul:hover{
+	background:white;
+	color:lightpink;
+}
+.boton_rojo{
+	background:lightblue;
+	color:white;
+	width:150px;
+	border-radius:10px;
+	font-size:16pt;
+}
+.boton_rojo:hover{
+	background:white;
+	color:lightblue;
+}
+.boton_amarillo{
+	background:purple;
+	color:white;
+	width:150px;
+	border-radius:10px;
+	font-size:16pt;
+}
+.boton_amarillo:hover{
+	background:white;
+	color:purple;
+}
+.encabezado{
+	background:lightcoral;
+	color:white;
+	width:90%;
+	border-radius:15px;
+	font-size:16pt;
+}
